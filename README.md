@@ -15,6 +15,9 @@ I code for the sake of learning and because it is fun. It is not my objective to
 <a href="https://stackoverflow.com/users/15286056/germanheim">
 <img src="https://img.shields.io/badge/Stackoverflow-GermanHeim-orange?style=for-the-badge&logo=stackoverflow">
 </a>
+<a href="https://cssbattle.dev/player/germanheim">
+<img src="https://img.shields.io/badge/CSS_Battles-@germanheim-yellow?style=for-the-badge&logo=css3">
+</a>
 <a href="https://www.goodreads.com/user/show/79866487-germ-n-heim">
 <img src="https://img.shields.io/badge/GoodReads-germ%C3%A1n_heim-yellow?style=for-the-badge&logo=goodreads">
 </a>

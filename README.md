@@ -2,9 +2,13 @@
 Hey! My name is Germán. I am currently learning HTML, CSS and JavaScript.
 I code for the sake of learning and because it is fun. It is not my objective to become a profesional developer.
 
+<a href="https://github.com/GermanHeim">
 [![Germán's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanHeim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 </br>
+<a href="https://github.com/GermanHeim">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanHeim&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
 # Socials
 <a href="https://germanheim.gq">

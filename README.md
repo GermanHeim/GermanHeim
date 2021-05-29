@@ -13,6 +13,9 @@ I code for the sake of learning and because it is fun. It is not my objective to
 <a href="mailto:german.martin.heim@gmail.com">
 <img src="https://img.shields.io/badge/Email-german.martin.heim%40gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
+<a href="https://www.kaggle.com/germnheim">
+<img src="https://img.shields.io/badge/Kaggle-@germnheim-blue?style=for-the-badge&logo=kaggle">
+</a>
 <a href="https://stackoverflow.com/users/15286056/germanheim">
 <img src="https://img.shields.io/badge/Stackoverflow-GermanHeim-orange?style=for-the-badge&logo=stackoverflow">
 </a>

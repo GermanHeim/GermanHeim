@@ -1,5 +1,5 @@
 # <img src="https://i.imgur.com/oCnBNlC.gif" width="40">Welcome to my GitHub!
-Hey! My name is Germán. I am currently learning HTML, CSS, JavaScript, and Python.
+Hey! My name is Germán. I am currently learning data science.
 I code for the sake of learning and because it is fun. It is not my objective to become a professional developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanHeim&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

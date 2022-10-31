@@ -4,7 +4,6 @@ I code for the sake of learning and because it is fun. It is not my objective to
 #
 
 ## 🧰 Skills
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg"/>
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original-wordmark.svg"/>
@@ -18,7 +17,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
   <br/>
   <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/svelte/svelte-original.svg">
   <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
-  <br/>
+  <img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/electron/electron-original.svg">
 </details>
 
 <br/>

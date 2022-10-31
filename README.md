@@ -1,7 +1,6 @@
 # <img src="https://i.imgur.com/oCnBNlC.gif" width="40"> Welcome to my GitHub profile! 
 Hey! My name is Germán. I am currently learning data science.
 I code for the sake of learning and because it is fun. It is not my objective to become a professional developer.
-#
 
 ## 🧰 Skills
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg"/>
@@ -22,20 +21,18 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 <br/>
 
-#
 ## 📊Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanHeim&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-#
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
 - [The Picture of Dorian Gray](https://www.goodreads.com/review/show/4002471278?utm_medium=api&utm_source=rss) by Oscar Wilde (⭐️4.11)
 - [Ignition!: An Informal History of Liquid Rocket Propellants](https://www.goodreads.com/review/show/5051418829?utm_medium=api&utm_source=rss) by John Drury Clark (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
-#
+
 ## 🎵 Listening 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11131425967&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11131425967&redirect=true)
-#
+
 
 ## 🔗 Socials 
 <a href="https://germanheim.com">

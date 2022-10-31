@@ -1,10 +1,42 @@
-# <img src="https://i.imgur.com/oCnBNlC.gif" width="40">Welcome to my GitHub!
+# <img src="https://i.imgur.com/oCnBNlC.gif" width="40"> Welcome to my GitHub profile! 
 Hey! My name is Germán. I am currently learning data science.
 I code for the sake of learning and because it is fun. It is not my objective to become a professional developer.
+#
 
+## 🧰 Skills
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg"/>
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original-wordmark.svg"/>
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg"/>
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg"/>
+<img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/matlab/matlab-original.svg">
+<br/>
+<br/>
+
+<details><summary>Technologies that I want to learn</summary>
+  <br/>
+  <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/svelte/svelte-original.svg">
+  <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
+  <br/>
+</details>
+
+<br/>
+
+#
+## 📊Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanHeim&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-# Socials
+#
+
+## 📚 Currently reading 
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+#
+## 🎵 Listening 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11131425967&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11131425967&redirect=true)
+#
+
+## 🔗 Socials 
 <a href="https://germanheim.com">
 <img src="https://img.shields.io/badge/Website-germanheim.com-blue?style=for-the-badge">
 </a>

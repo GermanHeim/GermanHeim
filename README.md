@@ -30,7 +30,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 - [Ignition!: An Informal History of Liquid Rocket Propellants](https://www.goodreads.com/review/show/5051418829?utm_medium=api&utm_source=rss) by John Drury Clark (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
-## 🎵 Listening 
+## 🎵 Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11131425967&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11131425967&redirect=true)
 
 

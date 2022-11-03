@@ -26,8 +26,8 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
+- [Ruination: A League of Legends Novel](https://www.goodreads.com/review/show/4629085570?utm_medium=api&utm_source=rss) by Anthony Reynolds (⭐️4.08)
 - [The Picture of Dorian Gray](https://www.goodreads.com/review/show/4002471278?utm_medium=api&utm_source=rss) by Oscar Wilde (⭐️4.11)
-- [Ignition!: An Informal History of Liquid Rocket Propellants](https://www.goodreads.com/review/show/5051418829?utm_medium=api&utm_source=rss) by John Drury Clark (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

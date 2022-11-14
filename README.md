@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Ruination: A League of Legends Novel](https://www.goodreads.com/review/show/4629085570?utm_medium=api&utm_source=rss) by Anthony Reynolds (⭐️4.06)
+- [Ruination: A League of Legends Novel](https://www.goodreads.com/review/show/4629085570?utm_medium=api&utm_source=rss) by Anthony Reynolds (⭐️4.07)
 - [The Picture of Dorian Gray](https://www.goodreads.com/review/show/4002471278?utm_medium=api&utm_source=rss) by Oscar Wilde (⭐️4.11)
 <!-- GOODREADS-LIST:END -->
 

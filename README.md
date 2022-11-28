@@ -27,7 +27,6 @@ I code for the sake of learning and because it is fun. It is not my objective to
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
 - [The Alloy of Law (Mistborn, #4)](https://www.goodreads.com/review/show/4000809012?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.21)
-- [The Picture of Dorian Gray](https://www.goodreads.com/review/show/4002471278?utm_medium=api&utm_source=rss) by Oscar Wilde (⭐️4.11)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Shadows of Self (Mistborn, #5)](https://www.goodreads.com/review/show/4000809065?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.28)
+- [The Bands of Mourning (Mistborn, #6)](https://www.goodreads.com/review/show/4000809122?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.42)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

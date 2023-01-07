@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Lost Metal (Mistborn, #7)](https://www.goodreads.com/review/show/4000809329?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.49)
+- [The Lost Metal (Mistborn, #7)](https://www.goodreads.com/review/show/4000809329?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.48)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Blacktongue Thief (Blacktongue, #1)](https://www.goodreads.com/review/show/4456892035?utm_medium=api&utm_source=rss) by Christopher Buehlman (⭐️4.17)
+- [Cytonic (Skyward, #3)](https://www.goodreads.com/review/show/5289138129?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

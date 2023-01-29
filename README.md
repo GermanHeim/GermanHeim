@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Cytonic (Skyward #3)](https://www.goodreads.com/review/show/5289138129?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.06)
+- [Cytonic (Skyward #3)](https://www.goodreads.com/review/show/5289138129?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.05)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

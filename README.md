@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Blood of Elves (The Witcher, #1)](https://www.goodreads.com/review/show/5313696473?utm_medium=api&utm_source=rss) by Andrzej Sapkowski (⭐️4.05)
+- [Elantris (Elantris, #1)](https://www.goodreads.com/review/show/3770190135?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.17)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

@@ -26,6 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
+- [Arcanum Unbounded: The Cosmere Collection](https://www.goodreads.com/review/show/4133059103?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.5)
 - [A Single Man](https://www.goodreads.com/review/show/4564360977?utm_medium=api&utm_source=rss) by Christopher Isherwood (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
 

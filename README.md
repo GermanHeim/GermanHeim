@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Project Hail Mary](https://www.goodreads.com/review/show/4192657869?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.51)
+- [Project Hail Mary: A Novel](https://www.goodreads.com/review/show/4192657869?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.51)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

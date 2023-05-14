@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Tress of the Emerald Sea](https://www.goodreads.com/review/show/4902753529?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.69)
+- [The Rithmatist (The Rithmatist, #1)](https://www.goodreads.com/review/show/4457016534?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.24)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

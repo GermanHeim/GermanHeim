@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Rithmatist (The Rithmatist, #1)](https://www.goodreads.com/review/show/4457016534?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.24)
+- [All the Light We Cannot See](https://www.goodreads.com/review/show/5558451693?utm_medium=api&utm_source=rss) by Anthony Doerr (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

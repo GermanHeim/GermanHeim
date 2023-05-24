@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [All the Light We Cannot See](https://www.goodreads.com/review/show/5558451693?utm_medium=api&utm_source=rss) by Anthony Doerr (⭐️4.25)
+- [The Frugal Wizard’s Handbook for Surviving Medieval England](https://www.goodreads.com/review/show/5509659124?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️3.8)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

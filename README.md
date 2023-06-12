@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Babel: An Arcane History](https://www.goodreads.com/review/show/5171465643?utm_medium=api&utm_source=rss) by R.F. Kuang (⭐️4.27)
+- [Babel: An Arcane History](https://www.goodreads.com/review/show/5171465643?utm_medium=api&utm_source=rss) by R.F. Kuang (⭐️4.26)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

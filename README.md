@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Wager: A Tale of Shipwreck, Mutiny and Murder](https://www.goodreads.com/review/show/5602656682?utm_medium=api&utm_source=rss) by David Grann (⭐️4.21)
+- [The Sword of Kaigen: A Theonite War Story](https://www.goodreads.com/review/show/4134579371?utm_medium=api&utm_source=rss) by M.L.  Wang (⭐️4.46)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

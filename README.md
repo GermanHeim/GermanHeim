@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Sword of Kaigen: A Theonite War Story](https://www.goodreads.com/review/show/4134579371?utm_medium=api&utm_source=rss) by M.L.  Wang (⭐️4.46)
+- [The Lies of Locke Lamora (Gentleman Bastard, #1)](https://www.goodreads.com/review/show/4467205094?utm_medium=api&utm_source=rss) by Scott Lynch (⭐️4.42)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

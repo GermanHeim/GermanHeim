@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Lies of Locke Lamora (Gentleman Bastard, #1)](https://www.goodreads.com/review/show/4467205094?utm_medium=api&utm_source=rss) by Scott Lynch (⭐️4.42)
+- [Yumi and the Nightmare Painter](https://www.goodreads.com/review/show/5580511736?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.69)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

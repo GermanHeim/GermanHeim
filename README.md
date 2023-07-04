@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Yumi and the Nightmare Painter](https://www.goodreads.com/review/show/5580511736?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.67)
+- [Yumi and the Nightmare Painter](https://www.goodreads.com/review/show/5580511736?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.66)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

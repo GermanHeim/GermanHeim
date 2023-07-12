@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Kings of the Wyld (The Band, #1)](https://www.goodreads.com/review/show/5609019938?utm_medium=api&utm_source=rss) by Nicholas Eames (⭐️4.27)
+- [Red Rising (Red Rising, #1)](https://www.goodreads.com/review/show/4133382117?utm_medium=api&utm_source=rss) by Pierce Brown (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

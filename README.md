@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Golden Son (Red Rising, #2)](https://www.goodreads.com/review/show/5698990694?utm_medium=api&utm_source=rss) by Pierce Brown (⭐️4.39)
+- [The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements](https://www.goodreads.com/review/show/4705896413?utm_medium=api&utm_source=rss) by Sam Kean (⭐️3.91)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

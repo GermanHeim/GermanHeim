@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [White Sand](https://www.goodreads.com/review/show/5728153724?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.06)
+- [Brief Answers to the Big Questions](https://www.goodreads.com/review/show/4786621490?utm_medium=api&utm_source=rss) by Stephen Hawking (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

@@ -26,7 +26,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Brief Answers to the Big Questions](https://www.goodreads.com/review/show/4786621490?utm_medium=api&utm_source=rss) by Stephen Hawking (⭐️4.29)
+- [The Kaiju Preservation Society](https://www.goodreads.com/review/show/5762001444?utm_medium=api&utm_source=rss) by John Scalzi (⭐️3.96)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

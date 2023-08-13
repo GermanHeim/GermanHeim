@@ -9,14 +9,15 @@ I code for the sake of learning and because it is fun. It is not my objective to
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg"/>
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/matlab/matlab-original.svg">
+<img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/svelte/svelte-original.svg">
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
 <br/>
 <br/>
 
 <details><summary>Technologies that I want to learn</summary>
   <br/>
-  <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/svelte/svelte-original.svg">
-  <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/electron/electron-original.svg">
+  <img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://media.zeemly.com/zeemly/product/supabase.png">
 </details>
 
 <br/>

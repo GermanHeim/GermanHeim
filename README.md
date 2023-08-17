@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Kaiju Preservation Society](https://www.goodreads.com/review/show/5762001444?utm_medium=api&utm_source=rss) by John Scalzi (⭐️3.96)
+- [Sophie&apos;s World](https://www.goodreads.com/review/show/5747478481?utm_medium=api&utm_source=rss) by Jostein Gaarder (⭐️3.94)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

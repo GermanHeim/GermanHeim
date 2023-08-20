@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Sophie&apos;s World](https://www.goodreads.com/review/show/5747478481?utm_medium=api&utm_source=rss) by Jostein Gaarder (⭐️3.94)
+- [A Psalm for the Wild-Built (Monk & Robot, #1)](https://www.goodreads.com/review/show/5782710767?utm_medium=api&utm_source=rss) by Becky  Chambers (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

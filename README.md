@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [A Psalm for the Wild-Built (Monk & Robot, #1)](https://www.goodreads.com/review/show/5782710767?utm_medium=api&utm_source=rss) by Becky  Chambers (⭐️4.3)
+- [The Spear Cuts Through Water](https://www.goodreads.com/review/show/5670582785?utm_medium=api&utm_source=rss) by Simon Jimenez (⭐️4.26)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Spear Cuts Through Water](https://www.goodreads.com/review/show/5670582785?utm_medium=api&utm_source=rss) by Simon Jimenez (⭐️4.26)
+- [The Ninth Rain (The Winnowing Flame Trilogy, #1)](https://www.goodreads.com/review/show/5648394093?utm_medium=api&utm_source=rss) by Jen Williams (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

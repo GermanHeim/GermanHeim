@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Ninth Rain (The Winnowing Flame Trilogy, #1)](https://www.goodreads.com/review/show/5648394093?utm_medium=api&utm_source=rss) by Jen Williams (⭐️4.1)
+- [The Grace of Kings (The Dandelion Dynasty, #1)](https://www.goodreads.com/review/show/5602653890?utm_medium=api&utm_source=rss) by Ken Liu (⭐️3.84)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

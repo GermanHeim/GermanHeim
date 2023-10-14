@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Gardens of the Moon (The Malazan Book of the Fallen, #1)](https://www.goodreads.com/review/show/5602619115?utm_medium=api&utm_source=rss) by Steven Erikson (⭐️4.17)
+- [The Sunlit Man (The Cosmere)](https://www.goodreads.com/review/show/5907598158?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.49)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

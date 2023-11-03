@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Foundryside (The Founders Trilogy, #1)](https://www.goodreads.com/review/show/5903979667?utm_medium=api&utm_source=rss) by Robert Jackson Bennett (⭐️4.18)
+- [Shorefall (The Founders Trilogy, #2)](https://www.goodreads.com/review/show/5948827469?utm_medium=api&utm_source=rss) by Robert Jackson Bennett (⭐️4.04)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

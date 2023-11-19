@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Locklands (The Founders Trilogy, #3)](https://www.goodreads.com/review/show/5948827490?utm_medium=api&utm_source=rss) by Robert Jackson Bennett (⭐️4.05)
+- [Guards! Guards! (Discworld, #8; City Watch #1)](https://www.goodreads.com/review/show/5988148809?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.32)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

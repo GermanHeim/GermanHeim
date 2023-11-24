@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Guards! Guards! (Discworld, #8; City Watch #1)](https://www.goodreads.com/review/show/5988148809?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.32)
+- [Herc](https://www.goodreads.com/review/show/5998787355?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.68)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

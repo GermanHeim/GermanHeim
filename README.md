@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Herc](https://www.goodreads.com/review/show/5998787355?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.66)
+- [Herc](https://www.goodreads.com/review/show/5998787355?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.65)
 <!-- GOODREADS-LIST:END -->
 
 ## 🎵 Listening to

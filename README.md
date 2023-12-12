@@ -27,12 +27,9 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Defiant (Skyward, #4)](https://www.goodreads.com/review/show/4340544930?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.08)
+- [Defiant (Skyward, #4)](https://www.goodreads.com/review/show/4340544930?utm_medium=api&utm_source=rss)
+ by Brandon Sanderson (⭐️4.08)
 <!-- GOODREADS-LIST:END -->
-
-## 🎵 Listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11131425967&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11131425967&redirect=true)
-
 
 ## 🔗 Socials 
 <a href="https://germanheim.com">
@@ -40,16 +37,4 @@ I code for the sake of learning and because it is fun. It is not my objective to
 </a>
 <a href="mailto:contacto@germanheim.com">
 <img src="https://img.shields.io/badge/Email-contacto%40germanheim.com-red?style=for-the-badge&logo=gmail">
-</a>
-<a href="https://www.kaggle.com/germnheim">
-<img src="https://img.shields.io/badge/Kaggle-@germnheim-blue?style=for-the-badge&logo=kaggle">
-</a>
-<a href="https://stackoverflow.com/users/15286056/germanheim">
-<img src="https://img.shields.io/badge/Stackoverflow-GermanHeim-orange?style=for-the-badge&logo=stackoverflow">
-</a>
-<a href="https://cssbattle.dev/player/germanheim">
-<img src="https://img.shields.io/badge/CSS_Battles-@germanheim-yellow?style=for-the-badge&logo=css3">
-</a>
-<a href="https://www.goodreads.com/user/show/79866487-germ-n-heim">
-<img src="https://img.shields.io/badge/GoodReads-germ%C3%A1n_heim-yellow?style=for-the-badge&logo=goodreads">
 </a>

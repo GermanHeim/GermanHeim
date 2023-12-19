@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Defiant (Skyward, #4)](https://www.goodreads.com/review/show/4340544930?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.11)
+- [Cien años de soledad](https://www.goodreads.com/review/show/6061875179?utm_medium=api&utm_source=rss) by Gabriel García Márquez (⭐️4.44)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

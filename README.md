@@ -27,7 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Martian](https://www.goodreads.com/review/show/4245082870?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.41)
+- [The Dutch House](https://www.goodreads.com/review/show/6189187039?utm_medium=api&utm_source=rss) by Ann Patchett (⭐️4.08)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

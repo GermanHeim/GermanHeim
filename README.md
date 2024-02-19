@@ -27,6 +27,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
+- [Block by Block: The Historical and Theoretical Foundations of Thermodynamics](https://www.goodreads.com/review/show/5720019631?utm_medium=api&utm_source=rss) by Robert T. Hanlon (⭐️4.68)
 - [The Alchemy of Air: A Jewish Genius, a Doomed Tycoon, and the Scientific Discovery That Fed the World but Fueled the Rise of Hitler](https://www.goodreads.com/review/show/5862810600?utm_medium=api&utm_source=rss) by Thomas Hager (⭐️4.32)
 <!-- GOODREADS-LIST:END -->
 

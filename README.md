@@ -1,6 +1,5 @@
 # <img src="https://i.imgur.com/oCnBNlC.gif" width="40"> Welcome to my GitHub profile! 
-Hey! My name is Germán. I am currently learning data science.
-I code for the sake of learning and because it is fun. It is not my objective to become a professional developer.
+Hey! My name is Germán.
 
 ## 🧰 Skills
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg"/>
@@ -23,7 +22,7 @@ I code for the sake of learning and because it is fun. It is not my objective to
 <br/>
 
 ## 📊Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanHeim&theme=tokyonight&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanHeim&theme=tokyonight&layout=compact&hide=jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->

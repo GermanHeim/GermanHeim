@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Block by Block: The Historical and Theoretical Foundations of Thermodynamics](https://www.goodreads.com/review/show/5720019631?utm_medium=api&utm_source=rss) by Robert T. Hanlon (⭐️4.68)
+- [Block by Block: The Historical and Theoretical Foundations of Thermodynamics](https://www.goodreads.com/review/show/5720019631?utm_medium=api&utm_source=rss) by Robert T. Hanlon (⭐️4.65)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

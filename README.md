@@ -26,7 +26,6 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Los crímenes de Oxford](https://www.goodreads.com/review/show/6254696371?utm_medium=api&utm_source=rss) by Guillermo Martínez (⭐️3.29)
 - [Block by Block: The Historical and Theoretical Foundations of Thermodynamics](https://www.goodreads.com/review/show/5720019631?utm_medium=api&utm_source=rss) by Robert T. Hanlon (⭐️4.62)
 <!-- GOODREADS-LIST:END -->
 

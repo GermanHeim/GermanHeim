@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Yellow Sky Revolt (The Three Kingdoms Chronicles, #1)](https://www.goodreads.com/review/show/5684422577?utm_medium=api&utm_source=rss) by Baptiste Pinson Wu (⭐️4.3)
+- [Stone Blind](https://www.goodreads.com/review/show/5666836960?utm_medium=api&utm_source=rss) by Natalie Haynes (⭐️3.83)
 - [Block by Block: The Historical and Theoretical Foundations of Thermodynamics](https://www.goodreads.com/review/show/5720019631?utm_medium=api&utm_source=rss) by Robert T. Hanlon (⭐️4.62)
 <!-- GOODREADS-LIST:END -->
 

@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Stone Blind](https://www.goodreads.com/review/show/5666836960?utm_medium=api&utm_source=rss) by Natalie Haynes (⭐️3.83)
+- [Fairy Tale](https://www.goodreads.com/review/show/4902397718?utm_medium=api&utm_source=rss) by Stephen King (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

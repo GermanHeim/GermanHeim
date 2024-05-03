@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Fairy Tale](https://www.goodreads.com/review/show/4902397718?utm_medium=api&utm_source=rss) by Stephen King (⭐️4.06)
+- [In the Shadow of Lightning (Glass Immortals, #1)](https://www.goodreads.com/review/show/5612083789?utm_medium=api&utm_source=rss) by Brian  McClellan (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

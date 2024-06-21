@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [In the Shadow of Lightning (Glass Immortals, #1)](https://www.goodreads.com/review/show/5612083789?utm_medium=api&utm_source=rss) by Brian  McClellan (⭐️4.35)
+- [American Gods](https://www.goodreads.com/review/show/4160998413?utm_medium=api&utm_source=rss) by Neil Gaiman (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

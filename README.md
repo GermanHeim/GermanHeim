@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [American Gods](https://www.goodreads.com/review/show/4160998413?utm_medium=api&utm_source=rss) by Neil Gaiman (⭐️4.12)
+- [Jade City (The Green Bone Saga, #1)](https://www.goodreads.com/review/show/4114205438?utm_medium=api&utm_source=rss) by Fonda Lee (⭐️4.08)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

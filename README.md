@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Jade City (The Green Bone Saga, #1)](https://www.goodreads.com/review/show/4114205438?utm_medium=api&utm_source=rss) by Fonda Lee (⭐️4.08)
+- [Fahrenheit 451](https://www.goodreads.com/review/show/5963023165?utm_medium=api&utm_source=rss) by Ray Bradbury (⭐️3.96)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

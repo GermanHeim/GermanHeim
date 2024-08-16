@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Fahrenheit 451](https://www.goodreads.com/review/show/5963023165?utm_medium=api&utm_source=rss) by Ray Bradbury (⭐️3.96)
+- [Inodoro Pereyra: El renegau 11-12](https://www.goodreads.com/review/show/6764941102?utm_medium=api&utm_source=rss) by Roberto Fontanarrosa (⭐️3.67)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

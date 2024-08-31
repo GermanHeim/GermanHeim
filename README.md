@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Inodoro Pereyra: El renegau 11-12](https://www.goodreads.com/review/show/6764941102?utm_medium=api&utm_source=rss) by Roberto Fontanarrosa (⭐️3.67)
+- [Pride and Prejudice](https://www.goodreads.com/review/show/6805177458?utm_medium=api&utm_source=rss) by Jane Austen (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

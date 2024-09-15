@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Pride and Prejudice](https://www.goodreads.com/review/show/6805177458?utm_medium=api&utm_source=rss) by Jane Austen (⭐️4.3)
+- [The Night Circus](https://www.goodreads.com/review/show/3604945330?utm_medium=api&utm_source=rss) by Erin Morgenstern (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

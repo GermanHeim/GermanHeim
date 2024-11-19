@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Mythology](https://www.goodreads.com/review/show/6848236562?utm_medium=api&utm_source=rss) by Edith Hamilton (⭐️4.17)
+- [Mythology](https://www.goodreads.com/review/show/6848236562?utm_medium=api&utm_source=rss) by Edith Hamilton (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

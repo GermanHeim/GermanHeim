@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Mythology](https://www.goodreads.com/review/show/6848236562?utm_medium=api&utm_source=rss) by Edith Hamilton (⭐️4.16)
+- [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/7021904842?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.62)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Wind and Truth (The Stormlight Archive, #5)](https://www.goodreads.com/review/show/7048944185?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.73)
+- [Wind and Truth (The Stormlight Archive, #5)](https://www.goodreads.com/review/show/7048944185?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.74)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

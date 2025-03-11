@@ -26,6 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
+- [Separation Process Essentials](https://www.goodreads.com/review/show/7393638203?utm_medium=api&utm_source=rss) by Alan M. Lane (⭐️)
 - [Snapshot](https://www.goodreads.com/review/show/7330899606?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 

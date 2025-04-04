@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Skin Deep (Legion, #2)](https://www.goodreads.com/review/show/7428045085?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.11)
+- [I, Robot (Robot, #0.1)](https://www.goodreads.com/review/show/7460465398?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️4.22)
 - [Separation Process Essentials](https://www.goodreads.com/review/show/7393638203?utm_medium=api&utm_source=rss) by Alan M. Lane (⭐️)
 <!-- GOODREADS-LIST:END -->
 

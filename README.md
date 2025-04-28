@@ -26,7 +26,6 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Angels & Demons (Robert Langdon, #1)](https://www.goodreads.com/review/show/5604583030?utm_medium=api&utm_source=rss) by Dan    Brown (⭐️3.95)
 - [Separation Process Essentials](https://www.goodreads.com/review/show/7393638203?utm_medium=api&utm_source=rss) by Alan M. Lane (⭐️)
 <!-- GOODREADS-LIST:END -->
 

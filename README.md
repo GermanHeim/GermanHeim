@@ -26,6 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
+- [Blood Over Bright Haven](https://www.goodreads.com/review/show/7541779613?utm_medium=api&utm_source=rss) by M.L. Wang (⭐️4.39)
 - [Separation Process Essentials](https://www.goodreads.com/review/show/7393638203?utm_medium=api&utm_source=rss) by Alan M. Lane (⭐️)
 - [Learn Aspen Plus in 24 Hours](https://www.goodreads.com/review/show/7529755851?utm_medium=api&utm_source=rss) by Thomas A. Adams II (⭐️5)
 <!-- GOODREADS-LIST:END -->

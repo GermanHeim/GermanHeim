@@ -26,7 +26,6 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [The Shadow of What Was Lost (The Licanius Trilogy, #1)](https://www.goodreads.com/review/show/5648506053?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.13)
 - [Separation Process Essentials](https://www.goodreads.com/review/show/7393638203?utm_medium=api&utm_source=rss) by Alan M. Lane (⭐️)
 - [Learn Aspen Plus in 24 Hours](https://www.goodreads.com/review/show/7529755851?utm_medium=api&utm_source=rss) by Thomas A. Adams II (⭐️5)
 <!-- GOODREADS-LIST:END -->

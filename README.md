@@ -26,7 +26,7 @@ Hey! My name is Germán.
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [An Echo of Things to Come (The Licanius Trilogy, #2)](https://www.goodreads.com/review/show/7673577883?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.2)
+- [An Echo of Things to Come (The Licanius Trilogy, #2)](https://www.goodreads.com/review/show/7673577883?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.21)
 - [Separation Process Essentials](https://www.goodreads.com/review/show/7393638203?utm_medium=api&utm_source=rss) by Alan M. Lane (⭐️)
 - [Learn Aspen Plus in 24 Hours](https://www.goodreads.com/review/show/7529755851?utm_medium=api&utm_source=rss) by Thomas A. Adams II (⭐️5)
 <!-- GOODREADS-LIST:END -->

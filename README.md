@@ -1,24 +1,10 @@
 # <img src="https://i.imgur.com/oCnBNlC.gif" width="40"> Welcome to my GitHub profile! 
-Hey! My name is Germán.
+Hey, my name is Germán. I am a chemical engineering student interested in modelling, optimization, and machine learning. I have experience in 3D printing, finite element analysis (FEM), and programming languages like Python, Rust, and MATLAB.
 
 ## 🧰 Skills
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg"/>
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original-wordmark.svg"/>
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg"/>
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg"/>
-<img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/matlab/matlab-original.svg">
-<img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/svelte/svelte-original.svg">
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg">
-<br/>
-<br/>
+<img align="left" alt="Skill icons for Python, Rust, scikit-learn, MATLAB, JavaScript, LaTeX, Svelte, HTML, CSS and Tailwind" style="padding-right:10px;" src="https://skillicons.dev/icons?i=py,rust,sklearn,matlab,js,latex,svelte,html,css,tailwind"/>
 
-<details><summary>Technologies that I want to learn</summary>
-  <br/>
-  <img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/electron/electron-original.svg">
-  <img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://media.zeemly.com/zeemly/product/supabase.png">
-</details>
-
+<br/>
 <br/>
 
 ## 📊Stats

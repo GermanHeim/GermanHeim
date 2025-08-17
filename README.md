@@ -12,7 +12,7 @@ Hey, my name is Germán. I am a chemical engineering student interested in model
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Isles of the Emberdark](https://www.goodreads.com/review/show/7743299901?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.54)
+- [Isles of the Emberdark](https://www.goodreads.com/review/show/7743299901?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.55)
 - [Learn Aspen Plus in 24 Hours](https://www.goodreads.com/review/show/7529755851?utm_medium=api&utm_source=rss) by Thomas A. Adams II (⭐️5)
 <!-- GOODREADS-LIST:END -->
 

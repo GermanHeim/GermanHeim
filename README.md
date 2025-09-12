@@ -14,7 +14,6 @@ Hey, my name is Germán. I am a chemical engineering student interested in model
 <!-- GOODREADS-LIST:START -->
 - [Katabasis](https://www.goodreads.com/review/show/7331346496?utm_medium=api&utm_source=rss) by R.F. Kuang (⭐️4.01)
 - [The Adventures of Amina al-Sirafi (Amina al-Sirafi, #1)](https://www.goodreads.com/review/show/5582845058?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.24)
-- [Learn Aspen Plus in 24 Hours](https://www.goodreads.com/review/show/7529755851?utm_medium=api&utm_source=rss) by Thomas A. Adams II (⭐️5)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

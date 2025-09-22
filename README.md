@@ -12,7 +12,7 @@ Hey, my name is Germán. I am a chemical engineering student interested in model
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Katabasis](https://www.goodreads.com/review/show/7331346496?utm_medium=api&utm_source=rss) by R.F. Kuang (⭐️3.97)
+- [Katabasis](https://www.goodreads.com/review/show/7331346496?utm_medium=api&utm_source=rss) by R.F. Kuang (⭐️3.96)
 - [The Adventures of Amina al-Sirafi (Amina al-Sirafi, #1)](https://www.goodreads.com/review/show/5582845058?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.24)
 <!-- GOODREADS-LIST:END -->
 

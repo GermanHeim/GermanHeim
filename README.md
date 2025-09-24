@@ -13,7 +13,6 @@ Hey, my name is Germán. I am a chemical engineering student interested in model
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
 - [The Golem and the Jinni (The Golem and the Jinni, #1)](https://www.goodreads.com/review/show/7608169256?utm_medium=api&utm_source=rss) by Helene Wecker (⭐️4.11)
-- [The Adventures of Amina al-Sirafi (Amina al-Sirafi, #1)](https://www.goodreads.com/review/show/5582845058?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.24)
 <!-- GOODREADS-LIST:END -->
 
 ## 🔗 Socials 

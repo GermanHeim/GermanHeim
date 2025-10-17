@@ -12,6 +12,7 @@ Hey, my name is Germán. I am a chemical engineering student interested in model
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
+- [Process Dynamics and Control](https://www.goodreads.com/review/show/7998498512?utm_medium=api&utm_source=rss) by Dale E. Seborg (⭐️4)
 - [The Golem and the Jinni (The Golem and the Jinni, #1)](https://www.goodreads.com/review/show/7608169256?utm_medium=api&utm_source=rss) by Helene Wecker (⭐️4.11)
 <!-- GOODREADS-LIST:END -->
 

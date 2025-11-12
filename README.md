@@ -12,6 +12,7 @@ Hey, my name is Germán. I am a chemical engineering student interested in model
 
 ## 📚 Currently reading 
 <!-- GOODREADS-LIST:START -->
+- [The Strength of the Few (Hierarchy, #2)](https://www.goodreads.com/review/show/7055469978?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.6)
 - [Process Dynamics and Control](https://www.goodreads.com/review/show/7998498512?utm_medium=api&utm_source=rss) by Dale E. Seborg (⭐️4)
 <!-- GOODREADS-LIST:END -->
 

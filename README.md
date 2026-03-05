@@ -1,5 +1,6 @@
-# <img src="https://i.imgur.com/oCnBNlC.gif" width="40"> Welcome to my GitHub profile! 
-Hey, my name is Germán. I am a chemical engineering student interested in modelling, optimization, and machine learning. I have experience in 3D printing, finite element analysis (FEM), and programming languages like Python, Rust, and MATLAB.
+# <img src="https://i.imgur.com/oCnBNlC.gif" width="40"> Hey, my name is Germán
+
+Chemical Engineering student specializing in modeling, optimization, and high-performance computing, with a strong interest in machine learning and algorithm development. Experienced in developing physics-based and data-driven models using Python, Rust, and MATLAB for process simulation, parameter estimation, and numerical analysis. Interested in computer-aided chemical engineering, algorithm development, and the integration of mechanistic modeling with machine learning for advanced process analysis, optimization, and control.
 
 ## 🧰 Skills
 <img align="left" alt="Skill icons for Python, Rust, scikit-learn, MATLAB, JavaScript, LaTeX, Svelte, HTML, CSS and Tailwind" style="padding-right:10px;" src="https://skillicons.dev/icons?i=py,rust,sklearn,matlab,js,latex,svelte,html,css,tailwind"/>
